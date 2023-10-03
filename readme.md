@@ -39,3 +39,5 @@
 - window.location.href: Devuelve el href (URL) de la pagina actual.
 - window.location.hostname: Devuelve el nombre del dominio del servidor web.
 - window.location.pathname: Devuelve la ruta y el nombre del archivo de la pagina actual.
+- window.location.protocol: Devuelve el protocolo web utilizado (http o https).
+- window.location.assign() - Carga un nuevo documento.
