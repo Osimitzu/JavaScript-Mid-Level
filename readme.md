@@ -41,3 +41,64 @@
 - window.location.pathname: Devuelve la ruta y el nombre del archivo de la pagina actual.
 - window.location.protocol: Devuelve el protocolo web utilizado (http o https).
 - window.location.assign() - Carga un nuevo documento.
+
+## Herramientas de desarrollo del navegador
+
+### Pestaña Elements
+
+- Filtros y buscar por palabras clave.
+- Modificar, crear y eliminar etiquetas.
+- Event listeners.
+- Properties.
+- Opciones para copiar.
+- Seguir explorando
+
+### Pestaña Resources
+
+- Ver y guardar archivos.
+- Información ofrecida.
+- Cambios en tiempo real.
+- Snippets - Ejecutar codigo por fragmentos.
+
+### Pestaña Networks
+
+- Interfaz
+- Sort By y Filtros de busqueda.
+- Limpiar Cookies y Caché.
+- Importar y Exportar.
+
+### Pestaña Timeline
+
+- Uso y Grabación.
+- Screenshots de la grabación.
+- Controls
+- Overview:
+  - FPS, CPU y Net.
+- Flame Chart
+- Details
+- Sugerencias de Grabación.
+
+### Pestaña Application
+
+- Application
+- Storage
+- Caché
+- Background Services
+- Frames
+
+### Pestaña Console
+
+- Funcionamiento
+- Apilamiento de mensajes
+- Show timestamps
+- Borrar el historial
+- Conservar el historial
+- Guardar el historial
+- Eleccion de contexto de ejecución
+- Filtrado de los resultados de console
+- Filtros por nivel de gravedad:
+  - Todos: Muestra todos los resultados de console.
+  - Errors: Solo muestra los resultados de console.error().
+  - Warnings: Solo muestra los resultados de console.warning().
+  - Info: Solo muestra los resultados de console.info().
+  - Logs: Solo muestra los resultados de console.log().
