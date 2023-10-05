@@ -102,3 +102,40 @@
   - Warnings: Solo muestra los resultados de console.warning().
   - Info: Solo muestra los resultados de console.info().
   - Logs: Solo muestra los resultados de console.log().
+
+### Eventos del Mouse
+
+- click: Ocurre con un click.
+- dblclick: Ocurre con un doble click.
+- mouseover: Ocurre cuando el puntero se mueve sobre un elemento o sobre uno de sus hijos.
+- mouseout: Ocurre cuando se mueve el puntero fuera de un elemento o de sus elementos secundarios.
+- OTROS:
+  - contextmenu: Ocurre con un click en el boton derecho en un elemento para abrir un menú contextual.
+  - mouseenter: Ocurre cuando el puntero se mueve sobre un elemento.
+  - mouseleave: Ocurre cuando el puntero se mueve fuera de un elemento.
+  - mouseup: Ocurre cuando el usuario suelta un boton del mouse sobre un elemento.
+  - mousedown: Ocurre cuando el usuario aprieta un boton del mouse sobre un elemento.
+  - mousemove: Ocurre cuando el puntero se mueve mientras está sobre un elemento.
+
+### Eventos del Teclado
+
+- keydown: Ocurre cuando una tecla se deja de presionar.
+- keypress: Ocurre cuando una tecla se presiona.
+- keyup: Ocurre despues de que los dos eventos anteriores hayan concluido consecutivamente.
+
+### Eventos de la Interfaz
+
+- error: Ocurre cuando sucede un error durante la carga de un archivo multimedia.
+- load: Ocurre cuando un objeto se ha cargado.
+- beforeunload: Ocurre antes de que el documento este a punto de descargarse.
+- unload: Ocurre una vez que se a descargado una pagina.
+- resize: Ocurre cuando se cambia el tamaño de la vista del documento.
+- scroll: Ocurre cuando se desplaza la barra de desplazamiento de un elemento.
+- select: Ocurre despues de que el usuario selecciona algún texto de <input> o <textarea>.
+
+### Timers
+
+- setTimeout()
+- setInterval()
+- clearTimeout()
+- clearInterval()

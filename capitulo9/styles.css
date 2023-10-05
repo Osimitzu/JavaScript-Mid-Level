@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: white;
+  font-family: sans-serif;
+}
+
+h2 {
+  color: whitesmoke;
+  text-align: center;
+}
+
+input {
+  display: block;
+  width: 50%;
+  padding: 6px;
+  margin: 9px auto;
+}
+
+input[type="submit"] {
+  width: 10%;
+}
+
+form {
+  width: 50%;
+  margin: auto;
+  padding: 30px;
+  background-color: #333;
+  margin-top: 40px;
+}
+
+.green {
+  color: #9c9;
+}
+
+.red {
+  color: rgb(235, 35, 35);
+}
