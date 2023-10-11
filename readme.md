@@ -205,3 +205,49 @@
 
 - Operador ASYNC
 - Operador AWAIT
+
+## Peticiones HTTP
+
+- Cliente & Servidor
+- No guardan información
+
+### Datos Estructurados (JSON)
+
+- Serialización y Deserialización
+- Método parse() - Convierte un string con estructura JSON a formato JSON (deserializar)
+- Método stringify() - Convierte un dato de JavaScript en una cadena de texto JSON (serializar)
+- JSON Polyfill
+
+### AJAX
+
+- Instalación del servidor
+- Objeto XMLHttpRequest
+- Enviar peticiones GET
+- Trabajar el resultado de las peticiones
+- Objeto ActiveXObject
+- Nueva forma de trabajar con el resultado
+- Enviar peticiones POST
+- Objeto FormData
+
+### Fetch
+
+- Basado en promesas
+- Objeto fetch
+- text()
+- json()
+- blob()
+- formData()
+- arrayBuffer()
+
+### Librería Axios
+
+- Instalación
+- Basado en promesas
+- Objeto axios
+- Metodo get() y post()
+- Formas de enviar los datos
+
+### Fetch y Axios con Async y Await
+
+- Implementación
+- Importancia del try... catch
