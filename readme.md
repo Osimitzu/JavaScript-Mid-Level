@@ -103,6 +103,8 @@
   - Info: Solo muestra los resultados de console.info().
   - Logs: Solo muestra los resultados de console.log().
 
+## Eventos
+
 ### Eventos del Mouse
 
 - click: Ocurre con un click.
@@ -139,3 +141,52 @@
 - setInterval()
 - clearTimeout()
 - clearInterval()
+
+## Control de Flujo y Manejo de Errores
+
+- Sentencias de bloque
+- Sentencias de control de flujo
+- Sentencias de manejo de excepciones
+
+### Sentencia Switch
+
+- sintaxis y clausula case
+- break
+- default
+
+### Excepciones y Tipos de excepciones
+
+- Excepciones ECMAScript
+- DOMException y DOMError
+
+### try... catch
+
+- Sintaxis
+- Objeto Error
+- Catch Incondicional
+- Catch Condicional
+- Sentencia 'Throw'
+- Finally
+
+## Desventajas de trabajar de manera obsoleta
+
+- Los efectos negativos (aplicado a metodos, clases y propiedades)
+
+  - Uso excesivo de recursos
+  - Código con bugs o fallos
+  - Código innecesariamente largo
+  - SEO
+
+- ¿Cuando algo se vuelve obsoleto?
+
+  - 'Deprecated'
+  - Inútil
+  - No recomendado
+  - Con bugs o fallos
+  - Está por ser remplazado
+  - Hay mejores formas de hacerlo
+
+- ¿Como verificar si esta obsoleto?
+  - 1 de cada 3 webs utiliza librerias de JavaScript obsoletas
+  - Verificar si tienen o usan funciones, metodos, objetos o metodologías obsoletas
+  - Verificar en los sitios basados en estandares oficiales
