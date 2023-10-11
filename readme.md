@@ -190,3 +190,18 @@
   - 1 de cada 3 webs utiliza librerias de JavaScript obsoletas
   - Verificar si tienen o usan funciones, metodos, objetos o metodologías obsoletas
   - Verificar en los sitios basados en estandares oficiales
+
+## Callbacks
+
+- Concepto (function in function)
+
+### Promesas
+
+- ¿Que puede representar?
+  - Terminación de una operación asíncrona
+  - Fracaso de una operación asíncrona
+
+### Funciones Asíncronas
+
+- Operador ASYNC
+- Operador AWAIT
